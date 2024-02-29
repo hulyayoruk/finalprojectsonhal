@@ -1,3 +1,9 @@
+Bu proje algoritma ve programlama 2 dersinde görmüş olduğum phyton dilinde bir proje.
+Proje deprem bölgesindeki yemek tedariği sorunlarını ortadan kaldırmayı amaçlar.
+Ayriyeten deprem bağış fonu sayesinde bölgedeki insanlara sisteme girdiğiniz herhangi bir il veya ülkeden yemek bağışı veyahut bakiye bağışı yapabiliyorsunuz.
+.
+.
+.
 class DepremDestekSistemi:
     def __init__(self):
         self.yemek_fiyatlari = {
