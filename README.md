@@ -192,6 +192,6 @@ class DepremDestekSistemi:
         print("Bağış fonu güncellendi.")
 
 
-# Kullanım örneği
+
 sistem = DepremDestekSistemi()
 sistem.basla()
