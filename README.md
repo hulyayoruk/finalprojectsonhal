@@ -4,6 +4,7 @@ Ayriyeten deprem bağış fonu sayesinde bölgedeki insanlara sisteme girdiğini
 .
 .
 .
+
 class DepremDestekSistemi:
     def __init__(self):
         self.yemek_fiyatlari = {
